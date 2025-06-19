@@ -1,0 +1,3 @@
+qiskit>=2.0.3
+jupyterlab>=4.4.3
+mlcroissant>=1.0.17
